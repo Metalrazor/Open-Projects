@@ -27,6 +27,10 @@ Columns -
 - branch_code
 - occupation_code
 - occupation_category_code
-- Product columns - 21 numbers
+- Product code - 21 columns
 
 ##### Test set - 10000 x 29
+
+##### Target - Product bought (1 - bought, 0 - not bought)
+
+##### Evaluation Metric : Log Loss
