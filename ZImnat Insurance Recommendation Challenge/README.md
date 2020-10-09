@@ -33,4 +33,4 @@ Columns -
 
 ##### Target - Product bought (1 - bought, 0 - not bought)
 
-##### Evaluation Metric : Log Loss
+##### Evaluation Metric - Log Loss
